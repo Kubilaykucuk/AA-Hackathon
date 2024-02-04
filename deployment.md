@@ -39,7 +39,7 @@ Not: `tkinter` genellikle Python ile birlikte gelir, bu yüzden ayrıca yükleme
 
 Bazı NLTK işlevselliği ek veri gerektirir. Gerekli veri setlerini indirmek için aşağıdaki Python komutunu çalıştırın:
 
-```python
+python
 import nltk
 nltk.download('punkt')
 
